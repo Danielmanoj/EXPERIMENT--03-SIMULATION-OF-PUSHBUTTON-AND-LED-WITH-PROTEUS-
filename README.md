@@ -318,10 +318,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![pmc_ex3](https://github.com/user-attachments/assets/fc58f808-a79c-4df7-926b-aa324a119646)
 
 
-
-
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
+![image](https://github.com/user-attachments/assets/27441fd8-6980-429d-bb90-a5072be0365e)
+
  
  
  
